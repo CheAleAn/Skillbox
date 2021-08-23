@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: 'Flash'
+}
+item {
+  id: 2
+  name: 'Marker'
+}
+item {
+  id: 3
+  name: 'Souvenir'
+}
